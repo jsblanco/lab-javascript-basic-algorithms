@@ -89,5 +89,8 @@ console.log(`La frase "${phraseToCheck}" es un palindromo`)
 } else {
  console.log(`La frase "${phraseToCheck}" NO es un palindromo`) 
 }
+<<<<<<< HEAD
 
 console.log(phraseClean);
+=======
+>>>>>>> 7c9183ae97bec7a8dd5a2166e0f07c4626ff312d
