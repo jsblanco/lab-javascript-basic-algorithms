@@ -21,6 +21,10 @@ if (hacker1.length>hacker2.length) {
 
 // Iteration 3: Loops
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2dcbc4329dd206d254275473ad7e67187c975eaa
 let hacker1concat =""
 for (let i=0; i<hacker1.length; i++) {
   hacker1concat += hacker1.toUpperCase().charAt(i);
@@ -35,6 +39,10 @@ for (let i=(hacker2.length-1); i>-1; i--) {
 }
 
 console.log(hacker2reverse);
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2dcbc4329dd206d254275473ad7e67187c975eaa
 
 
 if (hacker1.localeCompare(hacker2)===-1){
